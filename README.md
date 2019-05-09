@@ -8,6 +8,6 @@ sections. The webpage I made also is responsive and contains all the information
 need to find the store or order via mail or phone.
 
 ## Template
-The template itself was made with HTML and it uses CSS and JavaScript. The makers of the template
+The template itself was made with HTML and it uses CSS, JavaScript and fonts. The makers of the template
 also used SASS for their CSS file, which really is very convenient to save time. I also did the
 LightHouse test which it scored good on except for the accesibility.
