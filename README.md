@@ -12,3 +12,6 @@ everytime I try to extract the file I have to put in my folder, I get an error m
 The template itself was made with HTML and it uses CSS, JavaScript and fonts. The makers of the template
 also used SASS for their CSS file, which really is very convenient to save time. I also did the
 LightHouse test which it scored good on except for the accesibility.
+
+### Preview of site
+https://nadiralaoui1.github.io/guerrilla/
