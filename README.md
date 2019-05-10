@@ -6,7 +6,7 @@ provided. I used some of the website's images but added some myself too. The tem
 little bit too long for the information I gathered so I removed some of the excessive space and
 sections. The webpage I made also is responsive and contains all the information a customer would
 need to find the store or order via mail or phone. I tried to add an icon with Favicon (flower.jpg), but
-everytime I try to extract the file I have to put in my folder, I get an error message (even after restarting).
+everytime I try to extract the file I have to put in my folder, I get an error message (even after restarting). I spent most of my time rearranging the lay-out after removing most of the excessive space.
 
 ## Template
 The template itself was made with HTML and it uses CSS, JavaScript and fonts. The makers of the template
